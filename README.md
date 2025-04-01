@@ -5,4 +5,3 @@
 - Looking to collaborate on attractive, responsive and efficient interfaces
 - Any feedbacks on my projects are welcome 😄
 - Contact: bulhoesgabriel@outlook.com
-- Portfolio: https://bulhoesgabriel.github.io/portfolio
